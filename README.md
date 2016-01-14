@@ -22,8 +22,10 @@ Host your own hidden-service darknet blog on an Android device!
 
 
 ## Links
+
 https://play.google.com/store/apps/details?id=onion.blog
 
+http://onionapps.github.io/Blog.onion/
 
 
 ## Building
