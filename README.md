@@ -1,6 +1,6 @@
 # Blog.onion
 
-- The easiest way to host your own anonymous hidden-service darknet blog!
+- The easiest way to host your own anonymous hidden-service darknet blog! 
 - Just install the Blog.onion Android app and start blogging.
 - Start your own blog with just a single tap. No signup required.
 - Your blog will be hosted as a hidden service behind the Tor anonymity network to protect your identity and IP address. 
