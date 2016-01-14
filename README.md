@@ -1,6 +1,6 @@
 # Blog.onion
 
-Host your own hidden-service darknet blog on an Android device!
+Host your own anonymous hidden-service darknet blog on an Android device!
 
 ![](https://raw.githubusercontent.com/onionApps/Blog.onion/master/gfx/fg.jpg)
 
