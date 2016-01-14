@@ -12,13 +12,13 @@ Host your own hidden-service darknet blog on an Android device!
 
 ## Screenshots
 
-![](https://github.com/onionApps/Blog.onion/blob/master/gfx/s1.png)
-![](https://github.com/onionApps/Blog.onion/blob/master/gfx/s2.png)
-![](https://github.com/onionApps/Blog.onion/blob/master/gfx/s3.png)
-![](https://github.com/onionApps/Blog.onion/blob/master/gfx/s4.png)
-![](https://github.com/onionApps/Blog.onion/blob/master/gfx/s5.png)
-![](https://github.com/onionApps/Blog.onion/blob/master/gfx/s6.png)
-![](https://github.com/onionApps/Blog.onion/blob/master/gfx/s7.png)
+![](https://raw.githubusercontent.com/onionApps/Blog.onion/master/gfx/s1.png)
+![](https://raw.githubusercontent.com/onionApps/Blog.onion/master/gfx/s2.png)
+![](https://raw.githubusercontent.com/onionApps/Blog.onion/master/gfx/s3.png)
+![](https://raw.githubusercontent.com/onionApps/Blog.onion/master/gfx/s4.png)
+![](https://raw.githubusercontent.com/onionApps/Blog.onion/master/gfx/s5.png)
+![](https://raw.githubusercontent.com/onionApps/Blog.onion/master/gfx/s6.png)
+![](https://raw.githubusercontent.com/onionApps/Blog.onion/master/gfx/s7.png)
 
 
 ## Links
