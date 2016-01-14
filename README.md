@@ -2,6 +2,8 @@
 
 Host your own hidden-service darknet blog on an Android device!
 
+![](https://raw.githubusercontent.com/onionApps/Blog.onion/master/gfx/fg.jpg)
+
 - The easiest way to host your own anonymous hidden-service darknet blog!
 - Just install the Blog.onion Android app and start blogging.
 - Start your own blog with just a single tap. No signup required.
