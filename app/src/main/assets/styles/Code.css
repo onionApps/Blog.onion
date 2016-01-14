@@ -1,0 +1,22 @@
+body
+{
+    background:#051505;
+}
+.p
+{
+    background:#020d02;
+    outline:1px solid #131;
+}
+body, div, span, a, p
+{
+    color:#fff;
+    font-family:Monospace;
+}
+.bt, .pt, .pg
+{
+    color:#ccc;
+}
+.pi, .act
+{
+    color:#888;
+}

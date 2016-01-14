@@ -1,0 +1,22 @@
+body
+{
+    background:#e6e6e6;
+}
+.p
+{
+    background:#fff;
+    box-shadow:0px 3px 8px #bbb;
+    border-radius:8px;
+}
+body, div, span, a, p
+{
+    color:#000;
+}
+.bt, .pt, .pg
+{
+    color:#444;
+}
+.pi, .act
+{
+    color:#888;
+}

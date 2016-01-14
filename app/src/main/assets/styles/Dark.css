@@ -1,0 +1,21 @@
+body
+{
+    background:#000;
+}
+.p
+{
+    background:#111;
+    border-radius:0;
+}
+body, div, span, a, p
+{
+    color:#fff;
+}
+.bt, .pt, .pg
+{
+    color:#ccc;
+}
+.pi, .act
+{
+    color:#888;
+}

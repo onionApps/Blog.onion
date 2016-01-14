@@ -1,0 +1,21 @@
+body
+{
+    background:#f8f;
+}
+.p
+{
+    background:#fff;
+    border-radius:8px;
+}
+body, div, span, a, p
+{
+    color:#000;
+}
+.bt, .pt, .pg
+{
+    color:#848;
+}
+.pi, .act
+{
+    color:#888;
+}
