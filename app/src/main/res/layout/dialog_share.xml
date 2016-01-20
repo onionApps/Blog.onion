@@ -4,12 +4,16 @@
     android:layout_height="match_parent"
     android:padding="16dp">
 
+    <!--
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Darknet Address" />
+        -->
     <TextView
+        android:textStyle="bold"
+        android:textColor="#080"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
@@ -57,12 +61,16 @@
         android:layout_width="match_parent"
         android:layout_height="24dp"></FrameLayout>
 
+    <!--
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Clearnet Address" />
+        -->
     <TextView
+        android:textStyle="bold"
+        android:textColor="#369"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
