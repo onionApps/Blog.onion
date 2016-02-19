@@ -23,12 +23,6 @@ Host your own anonymous hidden-service darknet blog on an Android device!
 ![](https://raw.githubusercontent.com/onionApps/Blog.onion/master/gfx/s7.png)
 
 
-## Links
-
-https://play.google.com/store/apps/details?id=onion.blog
-
-http://onionapps.github.io/Blog.onion/
-
 
 ## Building
 - Download this repository
@@ -36,3 +30,13 @@ http://onionapps.github.io/Blog.onion/
 - (Get Android Studio)
 - Open project
 - Press the run button
+
+
+
+## Links
+
+https://play.google.com/store/apps/details?id=onion.blog
+
+http://onionapps.github.io/Blog.onion/
+
+Author: http://github.com/onionApps - jkrnk73uid7p5thz.onion - bitcoin:1kGXfWx8PHZEVriCNkbP5hzD15HS4AyKf
